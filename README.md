@@ -8,7 +8,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 
 **Download EFI**
 
-- Terminal : \$ `git clone hhttps://github.com/RidhaAF/Hackintosh-ASUS-A455LB.git`
+- Terminal : \$ `git clone https://github.com/RidhaAF/Hackintosh-ASUS-A455LB.git`
 
 ---
 
