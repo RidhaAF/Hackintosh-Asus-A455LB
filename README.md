@@ -1,6 +1,6 @@
-# **Hackintosh-ASUS-A455LB**
+# **Hackintosh-Asus-A455LB**
 
-Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot with **Windows 10 Pro**
+Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boot with **Windows 10 Pro**
 
 <img src="img/Screen Shot 2020-11-04 at 7.00.49 PM.png" alt="macOS Big Sur 1" align="center">
 
@@ -8,7 +8,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 
 **Download EFI**
 
-- Terminal : \$ `git clone https://github.com/RidhaAF/Hackintosh-ASUS-A455LB.git`
+- Terminal : \$ `git clone https://github.com/RidhaAF/Hackintosh-Asus-A455LB.git`
 
 ---
 
@@ -21,7 +21,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 - **Storage :** SSD 240GB + HDD 1TB
 - **Wi-Fi :** Qualcomm Atheros AR9565 and Bluetooth
 - **Audio :** Conexant CX20751/2
-- **Ethernet :** Realtek RTL8168GU/8111GU
+- **Ethernet :** Realtek RTL8111GU
 - **Touchpad :** Focaltech PS2 Interface
 - **Boot Mode :** UEFI GPT
 - **Screen Size :** 14"
@@ -33,7 +33,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 
 **Working :**
 
-- QE/CI of Intel HD Graphics 5500 (1536MB) | **ig-platform-id** : 06002616 + SMBIOS MBP12.1 ([Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
+- QE/CI of Intel HD Graphics 5500 (1536MB) | **ig-platform-id** : 06002616 + SMBIOS MBP12,1 ([Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
 - Restart, Sleep and Shutdown
 - Internal Speaker, Headphone and Internal Microphone | with layout-id 21 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases), SSDT-IRQFix)
 - Touchpad with Gestures | (ApplePS2SmartTouchPad)
@@ -45,7 +45,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 - HDMI Out
 - Battery Indicator | ([VirtualSMC](https://github.com/acidanthera/virtualsmc/releases), SMCBatteryManager)
 - All USB Port (USB 3.0, USB 2.0)
-- iMessage | (Use Real Serial Number of MacBook Pro)
+- iMessage | (Use Real Serial Number of MacBook Pro (Sync with SMBIOS))
 - Webcam
 - Etc..
 
