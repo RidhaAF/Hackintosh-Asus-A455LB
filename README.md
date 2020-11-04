@@ -4,6 +4,8 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 
 <img src="img/Screen Shot 2020-11-04 at 7.00.49 PM.png" alt="macOS Big Sur 1" align="center">
 
+---
+
 **Download EFI**
 
 - Terminal : \$ `git clone hhttps://github.com/RidhaAF/Hackintosh-ASUS-A455LB.git`
@@ -54,6 +56,8 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 - NVIDIA GeForce 940M (NVIDIA Optimus/Switchable is not supported by Hackintosh)
 - Etc..
 
+---
+
 **Not Tested :**
 
 - HDMI Audio
@@ -85,6 +89,8 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 **Special Thanks and Credits to :**
 
 [Apple](https://www.apple.com) | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [Corpnewt](https://github.com/corpnewt/gibMacOS) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) | [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X) | [InsanelyMac](https://www.insanelymac.com/forum) | [Andresha](https://github.com/andreszerocross) | <b>and Other Developers</b> who aren't mentioned.
+
+---
 
 <img src="img/Screen Shot 2020-11-04 at 7.01.16 PM.png" alt="macOS Big Sur 2" align="center">
 
