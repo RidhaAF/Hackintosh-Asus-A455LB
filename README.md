@@ -6,26 +6,26 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 
 **Download EFI**
 
-- \$ `git clone hhttps://github.com/RidhaAF/Hackintosh-ASUS-A455LB.git`
+- Terminal : \$ `git clone hhttps://github.com/RidhaAF/Hackintosh-ASUS-A455LB.git`
 
 ---
 
 **Specs :**
 
-- Processor : Intel Core i5-5200U @2.2GHz up to 2.7Ghz | Broadwell
-- IGPU : Intel HD Graphics 5500
-- dGPU : NVIDIA GeForce 940M 2GB
-- RAM : 8GB DDR3L 1600MHz | @4GB Dual Channel
-- Storage : SSD 240GB + HDD 1TB
-- Wi-Fi : Qualcomm Atheros AR9565 and Bluetooth
-- Audio : Conexant CX20751/2
-- Ethernet : Realtek RTL8168GU/8111GU
-- Touchpad : Focaltech PS2 Interface
-- Boot Mode : UEFI GPT
-- Screen Size : 14"
-- Display Resolution : HD (1366 x 768)
-- OS Version : [macOS Big Sur 11.0.1 Beta (20B5012d)](https://github.com/corpnewt/gibMacOS)
-- Bootloader : [OpenCore 0.6.3](https://github.com/acidanthera/OpenCorePkg/releases)
+- **Processor :** Intel Core i5-5200U @2.2GHz up to 2.7Ghz | Broadwell
+- **IGPU :** Intel HD Graphics 5500
+- **dGPU :** NVIDIA GeForce 940M 2GB
+- **RAM :** 8GB DDR3L 1600MHz | @4GB Dual Channel
+- **Storage :** SSD 240GB + HDD 1TB
+- **Wi-Fi :** Qualcomm Atheros AR9565 and Bluetooth
+- **Audio :** Conexant CX20751/2
+- **Ethernet :** Realtek RTL8168GU/8111GU
+- **Touchpad :** Focaltech PS2 Interface
+- **Boot Mode :** UEFI GPT
+- **Screen Size :** 14"
+- **Display Resolution :** HD (1366 x 768)
+- OS **Version :** [macOS Big Sur 11.0.1 Beta (20B5012d)](https://github.com/corpnewt/gibMacOS)
+- **Bootloader :** [OpenCore 0.6.3](https://github.com/acidanthera/OpenCorePkg/releases)
 
 ---
 
