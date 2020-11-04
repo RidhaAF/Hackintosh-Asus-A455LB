@@ -2,7 +2,7 @@
 
 Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot with **Windows 10 Pro**
 
-<img src="https://imgur.com/a/Iukf3YR" alt="macOS Big Sur 1" align="center">
+<img src="img/Screen Shot 2020-11-04 at 7.00.49 PM.png" alt="macOS Big Sur 1" align="center">
 
 **Download EFI**
 
@@ -86,14 +86,16 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | ASUS A455LB | Dual Boot wi
 
 [Apple](https://www.apple.com) | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [Corpnewt](https://github.com/corpnewt/gibMacOS) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) | [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X) | [InsanelyMac](https://www.insanelymac.com/forum) | [Andresha](https://github.com/andreszerocross) | <b>and Other Developers</b> who aren't mentioned.
 
-<img src="https://imgur.com/a/7WRIlJw" alt="macOS Big Sur 2" align="center">
+<img src="img/Screen Shot 2020-11-04 at 7.01.16 PM.png" alt="macOS Big Sur 2" align="center">
 
-<img src="https://imgur.com/a/SZ1DdNY" alt="macOS Big Sur 3" align="center">
+<img src="img/Screen Shot 2020-11-04 at 8.06.30 PM.png" alt="macOS Big Sur 3" align="center">
 
-<img src="https://imgur.com/a/T6SS8Wc" alt="macOS Big Sur 4" align="center">
+<img src="img/Screen Shot 2020-11-04 at 8.38.53 PM.png" alt="macOS Big Sur 4" align="center">
 
-<img src="https://imgur.com/a/pidSodR" alt="macOS Big Sur 5" align="center">
+<img src="img/Screen Shot 2020-11-04 at 8.10.19 PM.png" alt="macOS Big Sur 5" align="center">
 
-<img src="https://imgur.com/Cp5ABK7" alt="macOS Big Sur 6" align="center">
+<img src="img/Screen Shot 2020-11-04 at 8.13.34 PM.png" alt="macOS Big Sur 6" align="center">
 
-<img src="https://imgur.com/cnahduO" alt="macOS Big Sur 7" align="center">
+<img src="img/Screen Shot 2020-11-04 at 8.14.05 PM.png" alt="macOS Big Sur 7" align="center">
+
+<img src="img/Screen Shot 2020-11-04 at 8.15.29 PM.png" alt="macOS Big Sur 8" align="center">
