@@ -73,10 +73,10 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 |                  Bios Config                  |       Setting        |
 | :-------------------------------------------: | :------------------: |
 |            Security -> Secure Boot            |       Disabled       |
-|             Intel Virtualization              |       Disabled       |
+|             Intel Virtualization              |       Enabled        |
 |                     VT-d                      |       Disabled       |
 | Graphics Configuration -> DVMT Pre-Allocation |         64M          |
-|    USB Configuration -> XHCI Pre-Boot Mode    | Smart Auto / Enabled |
+|    USB Configuration -> XHCI Pre-Boot Mode    |       Smart Auto     |
 |                   SATA Mode                   |         AHCI         |
 |              Boot -> Launch CSM               |       Disabled       |
 
