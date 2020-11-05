@@ -36,19 +36,21 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 **Working :**
 
 - QE/CI of Intel HD Graphics 5500 (1536MB) | **ig-platform-id** : 06002616 + SMBIOS MBP12,1 ([Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
-- Restart and Shutdown
+- CPU Power Management (SSDT-PLUG)
+- Restart, Sleep and Shutdown
 - Internal Speaker, Headphone and Internal Microphone | with layout-id 21 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases), SSDT-IRQFix)
 - Touchpad with Gestures | (ApplePS2SmartTouchPad)
 - Brightness | (SSDT-PNLF)
 - FN + Brightness Button Up/Down | ([AsusSMC](https://github.com/hieplpvip/AsusSMC/releases) + DSDT)
 - Ethernet | ([RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/releases))
 - Wi-Fi | (AirPortAtheros40, [HS80211Family](https://www.insanelymac.com/forum/files/file/1008-io80211family-modif/))
-- Bluetooth | (Turn on in Windows, then restart and boot to macOS)
-- HDMI Out
+- Bluetooth | (Turn on in Windows setting, then restart and boot to macOS)
+- HDMI Out (Video)
 - Battery Indicator | ([VirtualSMC](https://github.com/acidanthera/virtualsmc/releases), SMCBatteryManager)
 - All USB Port (USB 3.0, USB 2.0)
 - iMessage | (Use Real Serial Number of MacBook Pro (Sync with SMBIOS))
 - Webcam
+- SD Card Reader
 - Etc..
 
 ---
@@ -56,7 +58,6 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 **Not Working :**
 
 - NVIDIA GeForce 940M (NVIDIA Optimus/Switchable is not supported by Hackintosh)
-- Sleep
 
 ---
 
@@ -64,7 +65,6 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 
 - HDMI Audio
 - VGA Port
-- SD Card Port
 
 ---
 
@@ -90,7 +90,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 
 **Special Thanks and Credits to :**
 
-[Apple](https://www.apple.com) | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [corpnewt](https://github.com/corpnewt/gibMacOS) | [doesprintfwork](https://github.com/doesprintfwork/MakeInstallmacOS) | [Acidanthera](https://github.com/acidanthera) | [RehabMan](https://github.com/RehabMan/Laptop-DSDT-Patch) | [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X) | [InsanelyMac](https://www.insanelymac.com/forum) | [Andres ZeroCross](https://github.com/andreszerocross) | <b>and Other Developers</b> who aren't mentioned.
+[Apple](https://www.apple.com) | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [corpnewt](https://github.com/corpnewt/gibMacOS) | [doesprintfwork](https://github.com/doesprintfwork/MakeInstallmacOS) | [Acidanthera](https://github.com/acidanthera) | [RehabMan](https://github.com/RehabMan/Laptop-DSDT-Patch) | [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X) | [InsanelyMac](https://www.insanelymac.com/forum) | [Andres ZeroCross](https://github.com/andreszerocross) | Other Developers.
 
 ---
 
