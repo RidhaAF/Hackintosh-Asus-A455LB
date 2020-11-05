@@ -1,14 +1,14 @@
 # **Hackintosh-Asus-A455LB**
 
-Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boot with **Windows 10 Pro**
+Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boot with **Windows 10 Pro** 20H2
 
-<img src="img/Screen Shot 2020-11-04 at 7.00.49 PM.png" alt="macOS Big Sur 1" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 7.00.49 PM.png" alt="macOS Big Sur 1" align="center">
 
 ---
 
 **Download EFI**
 
-- Terminal : \$ `git clone https://github.com/RidhaAF/Hackintosh-Asus-A455LB.git`
+- via Terminal : \$ `git clone https://github.com/RidhaAF/Hackintosh-Asus-A455LB.git` or [Click Here](https://github.com/RidhaAF/Hackintosh-Asus-A455LB/archive/master.zip)
 
 ---
 
@@ -26,7 +26,9 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 - **Boot Mode :** UEFI GPT
 - **Screen Size :** 14"
 - **Display Resolution :** HD (1366 x 768)
-- OS **Version :** [macOS Big Sur 11.0.1 Beta (20B5012d)](https://github.com/corpnewt/gibMacOS)
+- **External Monitor Screen Size :** 22"
+- **Display Resolution :** FHD (1920 x 1080)
+- **OS Version :** [macOS Big Sur 11.0.1 Beta (20B5012d)](https://github.com/corpnewt/gibMacOS)
 - **Bootloader :** [OpenCore 0.6.3](https://github.com/acidanthera/OpenCorePkg/releases)
 
 ---
@@ -88,20 +90,20 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 
 **Special Thanks and Credits to :**
 
-[Apple](https://www.apple.com) | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [Corpnewt](https://github.com/corpnewt/gibMacOS) | [Acidanthera](https://github.com/acidanthera) | [Rehabman](https://github.com/RehabMan/Laptop-DSDT-Patch) | [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X) | [InsanelyMac](https://www.insanelymac.com/forum) | [Andresha](https://github.com/andreszerocross) | <b>and Other Developers</b> who aren't mentioned.
+[Apple](https://www.apple.com) | [OpenCore](https://github.com/acidanthera/OpenCorePkg) | [corpnewt](https://github.com/corpnewt/gibMacOS) | [doesprintfwork](https://github.com/doesprintfwork/MakeInstallmacOS) | [Acidanthera](https://github.com/acidanthera) | [RehabMan](https://github.com/RehabMan/Laptop-DSDT-Patch) | [Mieze](https://github.com/Mieze/RTL8111_driver_for_OS_X) | [InsanelyMac](https://www.insanelymac.com/forum) | [Andres ZeroCross](https://github.com/andreszerocross) | <b>and Other Developers</b> who aren't mentioned.
 
 ---
 
-<img src="img/Screen Shot 2020-11-04 at 7.01.16 PM.png" alt="macOS Big Sur 2" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 7.01.16 PM.png" alt="macOS Big Sur 2" align="center">
 
-<img src="img/Screen Shot 2020-11-04 at 8.06.30 PM.png" alt="macOS Big Sur 3" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 8.06.30 PM.png" alt="macOS Big Sur 3" align="center">
 
-<img src="img/Screen Shot 2020-11-04 at 8.38.53 PM.png" alt="macOS Big Sur 4" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 8.38.53 PM.png" alt="macOS Big Sur 4" align="center">
 
-<img src="img/Screen Shot 2020-11-04 at 8.10.19 PM.png" alt="macOS Big Sur 5" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 8.10.19 PM.png" alt="macOS Big Sur 5" align="center">
 
-<img src="img/Screen Shot 2020-11-04 at 8.13.34 PM.png" alt="macOS Big Sur 6" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 8.13.34 PM.png" alt="macOS Big Sur 6" align="center">
 
-<img src="img/Screen Shot 2020-11-04 at 8.14.05 PM.png" alt="macOS Big Sur 7" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 8.14.05 PM.png" alt="macOS Big Sur 7" align="center">
 
-<img src="img/Screen Shot 2020-11-04 at 8.15.29 PM.png" alt="macOS Big Sur 8" align="center">
+## <img src="img/Screen Shot 2020-11-04 at 8.15.29 PM.png" alt="macOS Big Sur 8" align="center">
