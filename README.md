@@ -15,7 +15,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 **Specs :**
 
 - **Processor :** Intel Core i5-5200U @2.2GHz up to 2.7Ghz | Broadwell
-- **IGPU :** Intel HD Graphics 5500
+- **iGPU :** Intel HD Graphics 5500
 - **dGPU :** NVIDIA GeForce 940M 2GB
 - **RAM :** 8GB DDR3L 1600MHz | @4GB Dual Channel
 - **Storage :** SSD 240GB + HDD 1TB
@@ -36,7 +36,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 **Working :**
 
 - QE/CI of Intel HD Graphics 5500 (1536MB) | **ig-platform-id** : 06002616 + SMBIOS MBP12,1 ([Lilu](https://github.com/acidanthera/Lilu/releases), [WhateverGreen](https://github.com/acidanthera/whatevergreen/releases))
-- Restart, Sleep and Shutdown
+- Restart and Shutdown
 - Internal Speaker, Headphone and Internal Microphone | with layout-id 21 ([AppleALC](https://github.com/acidanthera/applealc/releases), [Lilu](https://github.com/acidanthera/Lilu/releases), SSDT-IRQFix)
 - Touchpad with Gestures | (ApplePS2SmartTouchPad)
 - Brightness | (SSDT-PNLF)
@@ -56,7 +56,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 **Not Working :**
 
 - NVIDIA GeForce 940M (NVIDIA Optimus/Switchable is not supported by Hackintosh)
-- Etc..
+- Sleep
 
 ---
 
@@ -70,15 +70,15 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 
 **BIOS Configuration**
 
-|                  Bios Config                  |       Setting        |
-| :-------------------------------------------: | :------------------: |
-|            Security -> Secure Boot            |       Disabled       |
-|             Intel Virtualization              |       Enabled        |
-|                     VT-d                      |       Disabled       |
-| Graphics Configuration -> DVMT Pre-Allocation |         64M          |
-|    USB Configuration -> XHCI Pre-Boot Mode    |       Smart Auto     |
-|                   SATA Mode                   |         AHCI         |
-|              Boot -> Launch CSM               |       Disabled       |
+|                  Bios Config                  |  Setting   |
+| :-------------------------------------------: | :--------: |
+|            Security -> Secure Boot            |  Disabled  |
+|             Intel Virtualization              |  Enabled   |
+|                     VT-d                      |  Disabled  |
+| Graphics Configuration -> DVMT Pre-Allocation |    64M     |
+|    USB Configuration -> XHCI Pre-Boot Mode    | Smart Auto |
+|                   SATA Mode                   |    AHCI    |
+|              Boot -> Launch CSM               |  Disabled  |
 
 ---
 
