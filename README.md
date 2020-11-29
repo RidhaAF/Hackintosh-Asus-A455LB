@@ -18,7 +18,7 @@ Hackintosh **macOS Big Sur 11.0.1** (20B29) | **Asus A455LB** | Dual Boot with *
 - **iGPU :** Intel HD Graphics 5500
 - **dGPU :** NVIDIA GeForce 940M 2GB
 - **RAM :** 8GB DDR3L 1600MHz | @4GB Dual Channel
-- **Storage :** SSD 240GB + HDD 1TB
+- **Storage :** Apacer AS340 PANTHER 240GB SATA III SSD + HDD 1TB
 - **Wi-Fi :** Qualcomm Atheros AR9565 and Bluetooth
 - **Audio :** Conexant CX20751/2
 - **Ethernet :** Realtek RTL8111GU
