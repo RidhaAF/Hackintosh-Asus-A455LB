@@ -1,8 +1,8 @@
 # **Hackintosh-Asus-A455LB**
 
-Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boot with **Windows 10 Pro** 20H2
+Hackintosh **macOS Big Sur 11.0.1** (20B29) | **Asus A455LB** | Dual Boot with **Windows 10 Pro** 20H2
 
-## <img src="img/Screen Shot 2020-11-04 at 7.00.49 PM.png" alt="macOS Big Sur 1" align="center">
+## <img src="img/Screen Shot 2020-11-29 at 7.58.01 AM.png" align="center">
 
 ---
 
@@ -28,7 +28,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 - **Display Resolution :** HD (1366 x 768)
 - **External Monitor Screen Size :** 22"
 - **Display Resolution :** FHD (1920 x 1080)
-- **OS Version :** [macOS Big Sur 11.0.1 Beta (20B5012d)](https://github.com/corpnewt/gibMacOS)
+- **OS Version :** [macOS Big Sur 11.0.1 (20B29)](https://github.com/corpnewt/gibMacOS)
 - **Bootloader :** [OpenCore 0.6.3](https://github.com/acidanthera/OpenCorePkg/releases)
 
 ---
@@ -58,6 +58,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 **Not Working :**
 
 - NVIDIA GeForce 940M (NVIDIA Optimus/Switchable is not supported by Hackintosh)
+- AirDrop (Wi-Fi not support)
 
 ---
 
@@ -74,7 +75,7 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 | :-------------------------------------------: | :--------: |
 |            Security -> Secure Boot            |  Disabled  |
 |             Intel Virtualization              |  Enabled   |
-|                     VT-d                      |  Disabled  |
+|                     VT-d                      |  Enabled   |
 | Graphics Configuration -> DVMT Pre-Allocation |    64M     |
 |    USB Configuration -> XHCI Pre-Boot Mode    | Smart Auto |
 |                   SATA Mode                   |    AHCI    |
@@ -94,16 +95,14 @@ Hackintosh **macOS Big Sur 11.0.1 Beta** (20B5012d) | **Asus A455LB** | Dual Boo
 
 ---
 
-## <img src="img/Screen Shot 2020-11-04 at 7.01.16 PM.png" alt="macOS Big Sur 2" align="center">
+## <img src="img/Screen Shot 2020-11-29 at 7.52.03 AM.png" align="center">
 
-## <img src="img/Screen Shot 2020-11-04 at 8.06.30 PM.png" alt="macOS Big Sur 3" align="center">
+## <img src="img/Screen Shot 2020-11-29 at 7.53.50 AM (2).png" align="center">
 
-## <img src="img/Screen Shot 2020-11-04 at 8.38.53 PM.png" alt="macOS Big Sur 4" align="center">
+## <img src="img/Screen Shot 2020-11-29 at 7.55.00 AM.png" align="center">
 
-## <img src="img/Screen Shot 2020-11-04 at 8.10.19 PM.png" alt="macOS Big Sur 5" align="center">
+## <img src="img/Screen Shot 2020-11-29 at 7.55.43 AM.png" align="center">
 
-## <img src="img/Screen Shot 2020-11-04 at 8.13.34 PM.png" alt="macOS Big Sur 6" align="center">
+## <img src="img/Screen Shot 2020-11-29 at 7.57.03 AM.png" align="center">
 
-## <img src="img/Screen Shot 2020-11-04 at 8.14.05 PM.png" alt="macOS Big Sur 7" align="center">
-
-## <img src="img/Screen Shot 2020-11-04 at 8.15.29 PM.png" alt="macOS Big Sur 8" align="center">
+## <img src="img/Screen Shot 2020-11-29 at 7.57.28 AM.png" align="center">
